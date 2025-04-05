@@ -20,3 +20,5 @@ git push --set-upstream origin master
 하면 git push나 git pull만 적어도 됨
 
 t수정 테스트
+수정테스트 2
+
