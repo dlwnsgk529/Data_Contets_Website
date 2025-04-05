@@ -1,7 +1,5 @@
 # Data_website_project
 
-https://thisiscoke.tistory.com/entry/Git-add-commit-pull-push
-
 1. git init
 2. git remote add origin https://github.com/본인아이디/Data_Contets_Website/.git
 3. git config --global user.name "아이디"
@@ -14,7 +12,9 @@ https://thisiscoke.tistory.com/entry/Git-add-commit-pull-push
 
 이제 앞으로 프로젝트 만들 때
 수정하고
-git add .
-git commit -m "메시지"
-git pull origin master
-git push origin master
+https://thisiscoke.tistory.com/entry/Git-add-commit-pull-push
+이거 참고
+
+추가로 매번 git push origin master하려면 귀찮으니까
+git push --set-upstream origin master
+하면 git push나 git pull만 적어도 됨
