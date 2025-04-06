@@ -18,3 +18,5 @@ https://thisiscoke.tistory.com/entry/Git-add-commit-pull-push
 추가로 매번 git push origin master하려면 귀찮으니까
 git push --set-upstream origin master
 하면 git push나 git pull만 적어도 됨
+
+https://www.youtube.com/watch?v=ddfBlI_ioyw&list=PLqIc89sXpwUBmr0Z282fm9JurDDYBE55r
